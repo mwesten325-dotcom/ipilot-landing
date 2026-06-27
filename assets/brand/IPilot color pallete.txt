@@ -1,0 +1,6 @@
+| Color role | HEX | RGB | Pantone recommendation |
+| Deep Intellectual Blue | #0E2F5A | 14, 47, 90 | Pantone 534 C approx. |
+| Trust Blue | #1F4E8C | 31, 78, 140 | Pantone 7686 C approx. |
+| Charcoal | #232A33 | 35, 42, 51 | Pantone 433 C approx. |
+| Light Gray | #E9EEF3 | 233, 238, 243 | Pantone 656 C approx. |
+| Growth Green | #89A56B | 137, 165, 107 | Pantone 5773 C approx. |
