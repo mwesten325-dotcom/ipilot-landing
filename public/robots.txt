@@ -1,4 +1,4 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
 
-Sitemap: https://ipilot.example/sitemap.xml
+Sitemap: https://ipilot-landing.vercel.app/sitemap.xml
